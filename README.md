@@ -5,7 +5,7 @@
 
 ---
 
-## 📸 Dashboard Preview
+## 📸 Dashboard Preview 
 
 ![Dashboard Screenshot](images/dashboard.png)
 
