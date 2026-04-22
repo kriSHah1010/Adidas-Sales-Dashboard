@@ -9,7 +9,6 @@
 
 ![Dashboard Screenshot](images/dashboard.png)
 
-> 💡 *Tip: Add multiple screenshots if needed to show different views.*
 
 ---
 
