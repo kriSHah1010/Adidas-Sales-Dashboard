@@ -17,7 +17,7 @@
 The **Adidas Sales Dashboard** provides a comprehensive view of sales performance, enabling users to track, analyze, and derive insights from key business metrics. It is designed to help stakeholders understand trends, regional performance, and product-level contributions.
     
 ---
-
+ 
 ## 🚀 Features
 - **Total Sales** – Overall revenue generated خلال the selected period  
 - **Operating Profit** – Total profit after operating expenses  
